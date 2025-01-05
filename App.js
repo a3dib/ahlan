@@ -36,13 +36,11 @@ function Banner() {
 function Categories1() {
   return (
     <section className="categories">
-      <div className="category">
-        <img src="sneakers-banner.jpg" alt="Sneakers" />
-        <h2>Men</h2>
+      <div className="fullimg1 fullimg">
+        <a href=''></a>
       </div>
-      <div className="category">
-        <img src="shoes-banner.jpg" alt="Shoes" />
-        <h2>Women</h2>
+      <div className="fullimg2 fullimg">
+        <a href=''></a>
       </div>
     </section>
   );
@@ -50,13 +48,11 @@ function Categories1() {
 function Categories2() {
   return (
     <section className="categories">
-      <div className="category">
-        <img src="sneakers-banner.jpg" alt="Sneakers" />
-        <h2>Men</h2>
+      <div className="fullimg3 fullimg">
+        <a href=''></a>
       </div>
-      <div className="category">
-        <img src="shoes-banner.jpg" alt="Shoes" />
-        <h2>Women</h2>
+      <div className="fullimg4 fullimg">
+        <a href=''></a>
       </div>
     </section>
   );
@@ -64,13 +60,11 @@ function Categories2() {
 function Categories3() {
   return (
     <section className="categories">
-      <div className="category">
-        <img src="sneakers-banner.jpg" alt="Sneakers" />
-        <h2>Men</h2>
+      <div className="fullimg5 fullimg">
+        <a href=''></a>
       </div>
-      <div className="category">
-        <img src="shoes-banner.jpg" alt="Shoes" />
-        <h2>Women</h2>
+      <div className="fullimg6 fullimg">
+        <a href=''></a>
       </div>
     </section>
   );
@@ -78,23 +72,21 @@ function Categories3() {
 function Categories4() {
   return (
     <section className="categories">
-      <div className="category">
-        <img src="sneakers-banner.jpg" alt="Sneakers" />
-        <h2>Men</h2>
+      <div className="fullimg7 fullimg">
+        <a href=''></a>
       </div>
-      <div className="category">
-        <img src="shoes-banner.jpg" alt="Shoes" />
-        <h2>Women</h2>
+      <div className="fullimg8 fullimg">
+        <a href=''></a>
       </div>
+
     </section>
   );
 }
 function Categories5() {
   return (
-    <section className="fullimg">
-      <div className="category">
-        <img src="sneakers-banner.jpg" alt="Sneakers" />
-        <h2>Men</h2>
+    <section className="categories">
+      <div className="fullimg9 fullimg">
+        <a href=''></a>
       </div>
     </section>
   );
